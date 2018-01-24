@@ -1,0 +1,6 @@
+Cara Menginstall aplikasi I-Act
+
+1. Create folder di dalam htdocs jika di local atau public_html jika di hosting dengan nama i_act
+2. buat database dengan nama i_act2
+3. Import file database_baru.sql ke dalam database yang baru saja dibuat
+4. Jalankan
